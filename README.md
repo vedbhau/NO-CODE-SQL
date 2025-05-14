@@ -58,7 +58,7 @@ Welcome to the **No-Code SQL Project**! 🚀 This project allows users to intera
 4. **Run the Flask Application**  
    Launch the Flask server:  
    ```bash
-   python app.py
+   python Working/app.py
    ```
 
 5. **Access the Web Interface**  
